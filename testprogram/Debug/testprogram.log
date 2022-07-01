@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testprogram.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program.cpp
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(46,3): warning C4551: function call missing argument list
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(149,3): warning C4551: function call missing argument list
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(303,4): warning C4551: function call missing argument list
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(315,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(322,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(431,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(470,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(511,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(514,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(561,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(634,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(644,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(768,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(879,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abanob\Desktop\final project\DS-semester4\testprogram\Program.cpp(1060,20): warning C4018: '<': signed/unsigned mismatch
+  testprogram.vcxproj -> C:\Users\abanob\Desktop\final project\DS-semester4\Debug\DataStructure.exe
